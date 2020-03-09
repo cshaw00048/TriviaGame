@@ -1,0 +1,11 @@
+.quiz{
+    display: none;
+}
+
+.summary {
+    display: none;
+}
+
+.selected{
+    background-color: greenyellow;
+}
